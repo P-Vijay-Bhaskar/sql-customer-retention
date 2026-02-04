@@ -20,4 +20,6 @@ This project analyzes customer purchase behavior to identify retention and churn
 
 # Tools
 - SQL (PostgreSQL / MySQL 8+)
+# Conclusion
 Performed customer retention analysis using SQL window functions to identify repeat customers, purchase gaps, and high-value users.
+
